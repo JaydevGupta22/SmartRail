@@ -26,7 +26,7 @@ OOP concepts (classes, methods, encapsulation)
 
 Clone the repository:
 
-git clone https://github.com/your-username/Rail-System.git
+git clone https://github.com/JaydevGupta22/SmartRail.git
 cd Rail-System
 
 
